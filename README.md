@@ -1,6 +1,6 @@
 - 💗 In love with **NodeJS**, **React** stacks
 
-- 🔨  Working hard on **RageStudio projects**
+- 🔨  Working hard on **[RageStudio](https://github.com/ragestudio) projects**
 
 - 🌱 I’m currently learning **Rust, C++**
 
